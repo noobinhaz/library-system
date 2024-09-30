@@ -1,0 +1,6 @@
+The Great Gatsby,9780743273565,false,1925,F. Scott Fitzgerald,American,1896,
+To Kill a Mockingbird,9780061120084,false,1960,Harper Lee,American,1926,
+1984,9780451524935,true,1949,George Orwell,British,1903,
+Clean Code,9780132350884,true,2008,Robert C. Martin,American,1952,
+The Pragmatic Programmer,9780201616224,true,1999,Andrew Hunt,American,1964,David Thomas,British,1956,
+The Life within Prompt Engineering and Software Engineering,2345678654789,false,2024,Minhaz Ahmed,Bangladeshi,1996,Ajwad,Bangladeshi,2002,
